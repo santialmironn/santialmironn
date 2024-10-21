@@ -1,7 +1,10 @@
 ## Hi there 👋
 
-<!--
-**santialmironn/santialmironn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/santialmironn/santialmironn"><img  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub!" alt="Typing SVG"></a>
+</p>
+
+---
 
 Here are some ideas to get you started:
 
